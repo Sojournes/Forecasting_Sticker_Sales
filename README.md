@@ -1,6 +1,6 @@
 # Kaggle Playground Series - Season 5, Episode 1
 
-![Kaggle Competition](https://www.kaggle.com/static/images/site-logo.png)
+![Kaggle Competition]([https://www.kaggle.com/static/images/site-logo.png](https://www.kaggle.com/competitions/85723/images/header))
 
 ## Competition Overview
 This repository contains my work for the Kaggle competition [Playground Series - Season 5, Episode 1](https://www.kaggle.com/competitions/playground-series-s5e1). The competition focuses on a regression problem where the goal is to predict a target variable based on given features.
